@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Yuju Rai
 
-## Business Analyst | MSc International Business Management
+## Business Analyst | Project Management & Coordination | MSc International Business Management
 
-I am a Business Analyst with an MSc in International Business Management from Birmingham City University. I am passionate about using data to generate insights, improve decision-making, and solve business challenges through analytical thinking and data visualization.
+I am a Business Analyst and Project Coordinator with an MSc in International Business Management from Birmingham City University. I am passionate about using data to generate insights, improve decision-making, and solve business challenges through analytical thinking and data visualization.
 
 I enjoy working with data to identify trends, evaluate business performance, and support strategic initiatives through evidence-based recommendations.
 
